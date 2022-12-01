@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   I mostly drink 💧 water instead of ☕️ when 👨🏻‍💻 ~
   <br><br>
   
-  # 🛠️ Tech stack
+  # 🛠️ Tech stack (I tried)
   ### 📋Language
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
