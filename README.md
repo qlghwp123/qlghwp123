@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 <div align="center">
   
   # 👋 Hi there 👋  
-  Hello! I want to be a backend developer ! 
-  I am interested in Python, Django, etc.
-  I mostly use vscode and sometimes vim as well  
+  Hello! I'm just LAZY guy.
   <br>
-  🍕 is my favorite food and I love R6(Rainbow Six : Siege). 
-  I mostly drink 💧 water instead of ☕️ when 👨🏻‍💻 ~
+  and I love R6(Rainbow Six : Siege). 
   <br><br>
   
   # 🛠️ Tech stack (I tried, at least)
